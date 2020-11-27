@@ -1,0 +1,5 @@
+export { Home } from './home'
+export { History } from './history'
+export { Opponents } from './opponents'
+export { Game } from './game'
+export { ProfileSettings } from './profileSettings' 

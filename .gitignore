@@ -37,6 +37,11 @@ local.properties
 node_modules/
 npm-debug.log
 
+#to be removed later
+app.json
+App.js
+react-native.config.js
+
 # BUCK
 buck-out/
 \.buckd/
